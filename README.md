@@ -1,12 +1,12 @@
-# Auto Outfit Change
-- This submod allows Monika to change her hairstyles, outfits, and accessories as she desires, fitting to the current weather and temperature (If Auto Atmos Change is installed) or just to the event at hand.
-- It also allows a lot of customization. See the [ex_prop_explanation](game/Submods/Auto%20Hair%20Change/ex_prop_explanation.md) for details
-- You can also plug your own functions using MAS's native Function Plugins, into the following functions to add handling for accessories too:
+# Mudança de roupas automático
+- Este submod permite que a Monika mude seus penteados, roupas e acessórios como desejar, de acordo com o clima e a temperatura atuais (se o Auto Atmos Change estiver instalado) ou apenas com o evento em questão.
+- Também oferece muitas opções de personalização. Veja o arquivo [ex_prop_explanation](game/Submods/Auto%20Hair%20Change/ex_prop_explanation.md) para mais detalhes.
+- Você também pode conectar suas próprias funções usando os Function Plugins nativos do MAS nas seguintes funções, para adicionar suporte a acessórios:
   - *store.ahc_utils.`changeHairAndClothes`*
   - *store.ahc_utils.`do_hair_logic`*
   - *store.ahc_utils.`do_clothes_logic`*
 
-This submod is compatible with the [Submod Updater Plugin](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin/releases/latest)! Give it an install to make updating this submod easier.
+Este submod é compatível com o [Submod Updater Plugin](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin/releases/latest)! Instale-o para facilitar a atualização deste submod.
 
-### Please report any and all problems in the `issues` tab.
+### Relate quaisquer problemas na aba `issues`
 ###### Thank you
