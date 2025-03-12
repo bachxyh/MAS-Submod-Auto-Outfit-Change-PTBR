@@ -9,6 +9,7 @@
   - Veja esse submod em inglês [aqui](https://github.com/multimokia/MAS-Submod-Auto-Outfit-Change)
 
 - Caso gostaria de ver mais submods traduzidos entre na comunidade brasileira de [Monika After Story](https://discord.gg/vq5GZBW42R) (Completamente feito por fãs e não oficial)
+
 Este submod é compatível com o [Submod Updater Plugin](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin/releases/latest)! Instale-o para facilitar a atualização deste submod.
 
 ### Relate quaisquer problemas na aba `issues`
